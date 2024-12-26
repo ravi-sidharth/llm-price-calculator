@@ -2,7 +2,7 @@
 
 A simple no-nonsense price calculator for LLM providers like OpenAI, Claude, and Google based on Input and Output Tokens.
 
-[![image](![alt text](image.png))]
+(![alt text](image.png))
 
 
 ## Features
